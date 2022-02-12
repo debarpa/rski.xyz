@@ -390,6 +390,9 @@ hr{
         align-items: center;
         margin-right: 30px;
     }
+     .social-icons img{
+        display: none;
+    }
 
 }
 
