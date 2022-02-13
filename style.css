@@ -393,6 +393,10 @@ hr{
      .social-icons img{
         display: none;
     }
+     .feature-btn{
+        padding-right: 120px;
+        padding-top: 50px;
+    }
 
 }
 
